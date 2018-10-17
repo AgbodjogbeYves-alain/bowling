@@ -1,1 +1,0 @@
-scalac -classpath G:\cours_test\kata_bowling_scala\target\scala-2.12\classes -bootclasspath C:\Users\agbon\.sbt\boot\scala-2.12.4\lib\scala-library.jar G:\cours_test\kata_bowling_scala\src\main\scala\bowling\Bowling.scala G:\cours_test\kata_bowling_scala\src\main\scala\bowling\Frame.scala
